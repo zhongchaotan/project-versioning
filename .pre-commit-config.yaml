@@ -1,0 +1,7 @@
+repos:
+  - repo: https://github.com/compilerla/conventional-pre-commit
+    rev: <git sha or tag>
+    hooks:
+      - id: conventional-pre-commit
+        stages: [ commit-msg ]
+        args: [ ] # optional: list of Conventional Commits types to allow e.g. [feat, fix, ci, chore, test]
