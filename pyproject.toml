@@ -1,2 +1,7 @@
-[tool.semantic_release]
-version_variable = "setup.py:__version__"
+#[tool.semantic_release]
+#version_variable = "setup.py:__version__"
+
+[tool.commitizen]
+name = "cz_conventional_commits"
+version = "0.0.1"
+tag_format = "$version"
