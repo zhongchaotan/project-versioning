@@ -1,2 +1,6 @@
 [tool.semantic_release]
 version_variable = "setup.py:__version__"
+hvcs = "github"
+hvcs_domain = "github.com/zhongchaotan/project-versioning"
+ignore_token_for_push = "true"
+GH_TOKEN = "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"
