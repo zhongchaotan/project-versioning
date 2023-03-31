@@ -1,7 +1,10 @@
+import os
 from setuptools import setup, find_packages
 
-__version__ = '1.0.0'
+__version__ = '0.3.0'
+
 #####
+# test    1
 setup(
    name="versioning",
    version=__version__,
