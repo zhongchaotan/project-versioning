@@ -5,6 +5,7 @@ __version__ = '0.3.0'
 
 #####
 # test    3
+# breaking
 setup(
    name="versioning",
    version=__version__,
