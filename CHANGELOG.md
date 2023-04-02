@@ -1,3 +1,9 @@
+## 0.4.0 (2023-04-02)
+
+### Feat
+
+- BREAKING CHANGE: bump up to 1
+
 ## 0.3.0 (2023-04-02)
 
 ### Feat
